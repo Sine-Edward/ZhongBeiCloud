@@ -12,6 +12,8 @@ At first,I want to get a Static IP in public network from local ISP,but it is to
 
 最初，我计划购买宽带运营商的公网静态IP，但是公网静态IP过于昂贵，超出了我的承受能力。在我所在的城市，价格至少为1200元/月。
 
+![1](https://user-images.githubusercontent.com/100682841/156349776-aa514776-f433-41c0-8efa-1f8fbef85c33.png)
+
 And then,I want to get a Cloud Server as a Data Transfer station,but the Bandwidth is very expensive,even higher than Static IP in public network!!!
 
 (x _ x ; )
@@ -20,9 +22,13 @@ And then,I want to get a Cloud Server as a Data Transfer station,but the Bandwid
 
 (x _ x ; )
 
+![2](https://user-images.githubusercontent.com/100682841/156349804-bdc3490b-737b-45ea-839c-f34fbcd08491.png)
+
 Finally,i plan to get a Dynamic IP in public network from local ISP,and get a cheap cloud server to store the Dynamic IP. 
 
 最终，我选择购买宽带运营商的动态IP服务。并且购买性能薄弱的服务器来存储动态IP。
+
+![3](https://user-images.githubusercontent.com/100682841/156349829-d119a047-ea0f-4114-b628-c3826ac92364.png)
 
 It's very cheap.
 
