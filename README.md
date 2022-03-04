@@ -40,6 +40,6 @@ That is gooooooooooooood.
 
 (  ' v ' ) 真棒。
 
-'ZhongBei' comes from a book.in some degree, 'ZhongBei' is a country full of freedom.
+'ZhongBei' comes from a book : < The Communication Between Tang and Ge  - The Speculation Of The Univers >
 
-“终北”一词源于一本书。在某种程度上，“终北”是一个自由的国度。
+“终北”一词源于《列子·汤问》。
