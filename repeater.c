@@ -47,8 +47,7 @@ int main()
 	{
 		sin_size=sizeof(struct sockaddr_in);
 		
-		if( (client_fd = accept(sock_fd,(struct sockaddr*)&remote
-_addr,&sin_size)) == -1)
+		if( (client_fd = accept(sock_fd,(struct sockaddr*)&remote_addr,&sin_size)) == -1)
 		{printf("accept error\n");continue;}
 
 		char buf[100];
